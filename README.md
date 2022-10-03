@@ -5,4 +5,4 @@ Tugas Pemrograman Web 1
 ### Membuat Paragraf
 kode tag untuk paragraf adalah '<p>'
 ini adalah tampilannya
-![img]ss1.png
+![Gambar 1](ss1.png)
